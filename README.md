@@ -47,11 +47,11 @@ I am also interested in artificial intelligence for program verification, progra
   [An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://ieeexplore.ieee.org/abstract/document/10298417) 
   
   Prantik Chatterjee, Pankaj Kumar Kalita, Sumit Lahiri, Sujit Kumar Muduli, Vishal Singh, **Gourav Takhar**, and Subhajit Roy<br>
-    In International Conference on Automated Software Engineering (ASE), $2023$.
+    In International Conference on Automated Software Engineering (ASE), 2023.
     
 [SR-SFLL: Structurally Robust Stripped Functionality Logic Locking](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_10) <br>
 **Gourav Takhar** and Subhajit Roy <br>
-In Computer Aided Verification (CAV), $2023$.<be>
+In Computer Aided Verification (CAV), 2023.<be>
 
 [HOLL: Program Synthesis for Higher Order Logic Locking](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_1) <br>
 **Gourav Takhar** Ramesh Karri, Christian Pilato, and Subhajit Roy <br>
@@ -59,16 +59,16 @@ In Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 20
 
 [Structural Analysis Attack on Sequential Circuit Logic Locking](https://ieeexplore.ieee.org/document/9840185) <br>
 **Gourav Takhar** and Subhajit Roy <br>
-In International Symposium on Hardware Oriented Security and Trust (HOST), $2022$.
+In International Symposium on Hardware Oriented Security and Trust (HOST), 2022.
 
 [HyperFuzzing for SoC Security Validation](https://ieeexplore.ieee.org/document/9256500) <br>
 Sujit Kumar Muduli, **Gourav Takhar**, and Pramod Subramanyan <br>
-In International Conference On Computer Aided Design (ICCAD) $2020$.
+In International Conference On Computer Aided Design (ICCAD) 2020.
     
 
 [When oblivious is not: attacks against OPAM](https://dl.acm.org/doi/10.5555/3488877.3488880) <br>
 Nirjhar Roy, Nikhil Bansal, **Gourav Takhar**, Nikhil Mittal, and Pramod Subramanyan <br>
-In USENIX Conference on Offensive Technologies (WOOT'20), $2020$.
+In USENIX Conference on Offensive Technologies (WOOT'20), 2020.
     
 
 
