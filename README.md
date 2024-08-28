@@ -1,3 +1,3 @@
-## GouravTakhar
+# Gourav Takhar
 
-# Education
+## Education
