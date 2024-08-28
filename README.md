@@ -1,2 +1,3 @@
-# GouravTakhar
-About Myself
+## GouravTakhar
+
+# Education
