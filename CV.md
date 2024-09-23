@@ -31,7 +31,7 @@ I am also interested in artificial intelligence for program verification, progra
 
 Indian Institute of Technology Kanpur (August 2018 - October 2024(expected))
 
-Thesis Advisor: [Dr. Subhajit Roy]{https://www.cse.iitk.ac.in/users/subhajit/}
+Thesis Advisor: [Dr. Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/)
 
 Thesis Title: Synthesis for Security and Bug Detection
 
@@ -39,7 +39,7 @@ Thesis Title: Synthesis for Security and Bug Detection
 
 Malaviya National Institute of Technology (MNIT)- Jaipur (July 2015 - June 2017)
 
-Thesis Advisor: [Dr.Namita Mittal]{https://mnit.ac.in/dept_cse/profile?fid=TKs=}
+Thesis Advisor: [Dr.Namita Mittal](https://mnit.ac.in/dept_cse/profile?fid=TKs=)
 
 Thesis Major: Vision-Based Gender Recognition Technique
 
@@ -51,27 +51,27 @@ Indian Institute of Technology – BHU (IIT-BHU) - Varanasi (July 2010 - June 20
 
 ### Publications
 
-[An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering]{https://ieeexplore.ieee.org/abstract/document/10298417}
+[An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://ieeexplore.ieee.org/abstract/document/10298417)
 Prantik Chatterjee, Pankaj Kumar Kalita, Sumit Lahiri, Sujit Kumar Muduli, Vishal Singh, Gourav Takhar, and Subhajit Roy
 In International Conference on Automated Software Engineering (ASE), 2023.
 
-[SR-SFLL: Structurally Robust Stripped Functionality Logic Locking]{https://link.springer.com/chapter/10.1007/978-3-031-37709-9_10}
+[SR-SFLL: Structurally Robust Stripped Functionality Logic Locking](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_10)
 Gourav Takhar and Subhajit Roy
 In Computer Aided Verification (CAV), 2023.
 
-[HOLL: Program Synthesis for Higher Order Logic Locking]{https://link.springer.com/chapter/10.1007/978-3-030-99524-9_1}
+[HOLL: Program Synthesis for Higher Order Logic Locking](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_1)
 Gourav Takhar Ramesh Karri, Christian Pilato, and Subhajit Roy
 In Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2022.
 
-[Structural Analysis Attack on Sequential Circuit Logic Locking]{https://ieeexplore.ieee.org/document/9840185}
+[Structural Analysis Attack on Sequential Circuit Logic Locking](https://ieeexplore.ieee.org/document/9840185)
 Gourav Takhar and Subhajit Roy
 In International Symposium on Hardware Oriented Security and Trust (HOST), 2022 (short paper).
 
-[HyperFuzzing for SoC Security Validation]{https://ieeexplore.ieee.org/document/9256500}
+[HyperFuzzing for SoC Security Validation](https://ieeexplore.ieee.org/document/9256500)
 Sujit Kumar Muduli, Gourav Takhar, and Pramod Subramanyan
 In International Conference On Computer Aided Design (ICCAD) 2020.
 
-[When oblivious is not: attacks against OPAM]{https://dl.acm.org/doi/10.5555/3488877.3488880}
+[When oblivious is not: attacks against OPAM](https://dl.acm.org/doi/10.5555/3488877.3488880)
 Nirjhar Roy, Nikhil Bansal, Gourav Takhar, Nikhil Mittal, and Pramod Subramanyan
 In USENIX Conference on Offensive Technologies (WOOT'20), 2020.
 
