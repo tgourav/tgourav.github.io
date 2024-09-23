@@ -1,29 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Display Markdown File</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <div id="markdown-content"></div>
-
-    <script>
-        // Function to fetch and display the Markdown file
-        async function loadMarkdownFile() {
-            const response = await fetch('CV.md'); // Replace 'README.md' with the path to your MD file
-            const markdown = await response.text();
-
-            // Convert markdown to HTML using marked.js
-            const htmlContent = marked(markdown);
-
-            // Insert the converted HTML into the div
-            document.getElementById('markdown-content').innerHTML = htmlContent;
-        }
-
-        // Load the markdown file when the page is loaded
-        window.onload = loadMarkdownFile;
-    </script>
+<script src="js/stmd.js"></script>
+<script src="js/render.js"></script>
+</script>
 </body>
 </html>
