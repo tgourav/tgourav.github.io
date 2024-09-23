@@ -29,7 +29,7 @@ I am also interested in artificial intelligence for program verification, progra
 
 ### Ph.D. (CSE)**
 
-Indian Institute of Technology Kanpur (August 2018 - October 2024(expected))
+Indian Institute of Technology Kanpur (August 2018 - December 2024(expected))
 
 Thesis Advisor: [Dr. Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/)
 
