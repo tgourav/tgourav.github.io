@@ -69,7 +69,7 @@ In International Symposium on Hardware Oriented Security and Trust (HOST), 2022 
 
 [HyperFuzzing for SoC Security Validation](https://ieeexplore.ieee.org/document/9256500)
 Sujit Kumar Muduli, Gourav Takhar, and Pramod Subramanyan
-In International Conference On Computer Aided Design (ICCAD) 2020.
+In International Conference On Computer Aided Design (ICCAD) 2020. (Best paper award)
 
 [When oblivious is not: attacks against OPAM](https://dl.acm.org/doi/10.5555/3488877.3488880)
 Nirjhar Roy, Nikhil Bansal, Gourav Takhar, Nikhil Mittal, and Pramod Subramanyan
