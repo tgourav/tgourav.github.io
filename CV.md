@@ -12,11 +12,11 @@ Nationality: Indian
 </div>
 
 ## **Bio**
-Gourav Takhar is a PhD student at IIT Kanpur with a focus on "synthesis for security and bug finding." He has published research on security in esteemed conferences such as TACAS, CAV, ASE, HOST, and ICCAD. He also got a best paper award in ICCAD for his work in validating hyper-properties for system-on-chip designs. More recently, he has been working on synthesizing techniques for program verification, specifically addressing incorrectness logic. Additionally, Gourav has developed tools for learning program verification and testing.
+Gourav Takhar is a PhD student at IIT Kanpur with a focus on "synthesis for security and bug detection." He has published research on security in esteemed conferences such as TACAS, CAV, ASE, HOST, and ICCAD. He also got a best paper award in ICCAD for his work in validating hyper-properties for system-on-chip designs. More recently, he has been working on synthesizing techniques for program verification, specifically addressing incorrectness logic. Additionally, Gourav has developed tools for learning program verification and testing.
 
 
 ## **Research Interests**
-I  am interested in the Formal Methods domain. Following are some of the specific areas:
+I  am interested in the Formal Methods domain. Following are some of the specific areas which I have worked and am interested in working:
 
 * Functional Synthesis for Logic Locking (used to stop Intellectual Property (IP) piracy).
 * Function Synthesis for verification of buffer overflow safety properties of "Open Programs".
@@ -27,9 +27,9 @@ I am also interested in artificial intelligence for program verification, progra
 
 ## **Education**
 
-### Ph.D. (CSE)**
+### **Ph.D. (CSE)**
 
-Indian Institute of Technology Kanpur (August 2018 - December 2024(expected))
+Indian Institute of Technology Kanpur (August 2018 - February 2025(expected))
 
 Thesis Advisor: [Dr. Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/)
 
