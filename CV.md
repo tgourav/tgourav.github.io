@@ -12,18 +12,18 @@ Nationality: Indian
 </div>
 
 ## **Bio**
-Gourav Takhar is a PhD student at IIT Kanpur with a focus on "synthesis for security and bug detection." He has published research on security in esteemed conferences such as TACAS, CAV, ASE, HOST, and ICCAD. He also got a best paper award in ICCAD for his work in validating hyper-properties for system-on-chip designs. More recently, he has been working on synthesizing techniques for program verification, specifically addressing incorrectness logic. Additionally, Gourav has developed tools for learning program verification and testing.
+Gourav Takhar is a PhD student at IIT Kanpur with a focus on "synthesis for security and bug detection." He has published research on security in esteemed conferences such as TACAS, CAV, ASE, HOST, and ICCAD. He also got a best paper award in ICCAD for his work in validating hyper-properties for system-on-chip designs. More recently, he has been working on synthesizing techniques for program verification, specifically addressing Incorrectness Logic. Additionally, Gourav has developed tools for learning program verification and testing.
 
 
 ## **Research Interests**
-I  am interested in the Formal Methods domain. Following are some of the specific areas which I have worked and am interested in working:
+I  am interested in the Formal Methods domain. Following are some of the specific areas in which I have worked and am interested in working:
 
-* Functional Synthesis for Logic Locking (used to stop Intellectual Property (IP) piracy).
-* Function Synthesis for verification of buffer overflow safety properties of "Open Programs".
-* Function Synthesis for bug detection in programs using Incorrectness Logic.
-* Formal methods for co-verification of hardware (HW) and firmware (FW).
+* Logic Locking (used to stop Intellectual Property (IP) piracy).
+* Verification of buffer overflow safety properties of "Open Programs".
+* Bug detection in programs using Incorrectness Logic.
+* Co-verification of hardware (HW) and firmware (FW).
 
-I am also interested in artificial intelligence for program verification, program testing, and hardware circuit design synthesis.
+I am also interested in large language models for program verification, program testing, and hardware circuit design synthesis.
 
 ## **Education**
 
@@ -78,4 +78,4 @@ In USENIX Conference on Offensive Technologies (WOOT'20), 2020.
 
 ### Awards and Recognitions
 * Recipient of ICCAD 2020 Best Paper Award" for the paperHyperFuzzing for SoC Security Validation".
-* Invited to present our work "SR-SFLL: Structurally Robust Stripped Functionality Logic Locking CAV'23" at Academic Research and Careers for Students (ARCS) 2024, held in Bhubaneswar, Odisha, India.
+* Invited to present our work "SR-SFLL: Structurally Robust Stripped Functionality Logic Locking" at Academic Research and Careers for Students (ARCS) 2024, held in Bhubaneswar, Odisha, India.
