@@ -61,7 +61,7 @@ Gourav Takhar and Subhajit Roy
 In Computer Aided Verification (CAV), 2023.
 
 [HOLL: Program Synthesis for Higher Order Logic Locking](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_1)
-Gourav Takhar Ramesh Karri, Christian Pilato, and Subhajit Roy
+Gourav Takhar, Ramesh Karri, Christian Pilato, and Subhajit Roy
 In Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2022.
 
 [Structural Analysis Attack on Sequential Circuit Logic Locking](https://ieeexplore.ieee.org/document/9840185)
