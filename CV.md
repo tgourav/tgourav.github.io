@@ -21,7 +21,7 @@ I  am interested in the Formal Methods domain. Following are some of the specifi
 * Logic Locking (used to stop Intellectual Property (IP) piracy).
 * Verification of buffer overflow safety properties of "Open Programs".
 * Bug detection in programs using Incorrectness Logic.
-* Co-verification of hardware (HW) and firmware (FW).
+* Using hyper-properties for co-verification of hardware (HW) and firmware (FW).
 * Program analysis, verification and testing.
 * Using LLMs in formal methods.
 
