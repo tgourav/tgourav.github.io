@@ -78,7 +78,7 @@ In USENIX Conference on Offensive Technologies (WOOT'20), 2020.
 
 
 ## **Awards and Recognitions**
-* Recipient of ICCAD 2020 Best Paper Award" for the paper HyperFuzzing for SoC Security Validation".
+* Recipient of ICCAD 2020 Best Paper Award for the paper "HyperFuzzing for SoC Security Validation".
 * Invited to present our work "SR-SFLL: Structurally Robust Stripped Functionality Logic Locking" at Academic Research and Careers for Students (ARCS) 2024, held in Bhubaneswar, Odisha, India.
 * Invited to give a talk at Workshop on Research Highlights in Programming Languages 2024, held in IIT Gandhinagar, India.
 * Invited to give a talk at Research Symposium at TCS Research Pune. Which is an initiative to bridge industry with academics.
