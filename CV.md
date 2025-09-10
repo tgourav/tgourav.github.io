@@ -52,7 +52,7 @@ Indian Institute of Technology – BHU (IIT-BHU) - Varanasi (July 2010 - June 20
 
 ## **Publications**
 
-[Memory-Safety Verification of Open Programs With Angelic Assumptions](https://ieeexplore.ieee.org/abstract/document/10298417)
+[Memory-Safety Verification of Open Programs With Angelic Assumptions](https://doi.org/10.1145/3763090)
 Gourav Takhar, Baldip Bijlani, Prantik Chatterjee, Akash Lal, and Subhajit Roy
 In Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2025.
 
