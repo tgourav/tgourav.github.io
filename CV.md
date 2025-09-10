@@ -52,6 +52,10 @@ Indian Institute of Technology – BHU (IIT-BHU) - Varanasi (July 2010 - June 20
 
 ## **Publications**
 
+[Memory-Safety Verification of Open Programs With Angelic Assumptions](https://ieeexplore.ieee.org/abstract/document/10298417)
+Gourav Takhar, Baldip Bijlani, Prantik Chatterjee, Akash Lal, and Subhajit Roy
+In Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2025.
+
 [An Integrated Program Analysis Framework for Graduate Courses in Programming Languages and Software Engineering](https://ieeexplore.ieee.org/abstract/document/10298417)
 Prantik Chatterjee, Pankaj Kumar Kalita, Sumit Lahiri, Sujit Kumar Muduli, Vishal Singh, Gourav Takhar, and Subhajit Roy
 In International Conference on Automated Software Engineering (ASE), 2023.
