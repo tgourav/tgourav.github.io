@@ -18,6 +18,9 @@ Gourav Takhar completed his PhD from IIT Kanpur with a focus on "synthesis for s
 ## **Research Interests**
 I  am interested in the Formal Methods domain. Following are some of the specific areas in which I have worked and am interested in working:
 
+* Static analysis of quantum programs
+* Using LLM for verification.
+* Zero knowledge proofs for temporal logic.
 * Logic Locking (used to stop Intellectual Property (IP) piracy).
 * Verification of buffer overflow safety properties of "Open Programs".
 * Bug detection in programs using Incorrectness Logic.
@@ -27,6 +30,18 @@ I  am interested in the Formal Methods domain. Following are some of the specifi
 
 
 ## **Education**
+
+### **Visvesvaraya Post Doctoral Fellowship**
+
+Indian Institute of Technology Kanpur (Sep 2025 - August 2026)
+
+Advisor: [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/)
+
+### **FARE Fellowship**
+
+Indian Institute of Technology Kanpur (Dec 2024 - August 2025)
+
+Advisor: [**Dr. Subhajit Roy**](https://www.cse.iitk.ac.in/users/subhajit/)
 
 ### **Ph.D. (CSE)**
 
@@ -52,7 +67,11 @@ Indian Institute of Technology – BHU (IIT-BHU) - Varanasi (July 2010 - June 20
 
 ## **Publications**
 
-[Memory-Safety Verification of Open Programs With Angelic Assumptions]()
+[Incorrectness Proofs with Underapproximation Invariants]
+Gourav Takhar and Subhajit Roy  
+In ACM Transactions on Software Engineering and Methodology (TOSEM), 2026. (Accepted but not published)
+
+[Memory-Safety Verification of Open Programs With Angelic Assumptions](https://doi.org/10.1145/3763090)
 Gourav Takhar, Baldip Bijlani, Prantik Chatterjee, Akash Lal, and Subhajit Roy
 In Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2025.
 
@@ -82,6 +101,7 @@ In USENIX Conference on Offensive Technologies (WOOT'20), 2020.
 
 
 ## **Awards and Recognitions**
+* Awarded the prestigious Visvesvaraya Post-Doctoral Fellowship by the Ministry of Electronics and IT (MeitY), Government of India (2025)
 * Recipient of ICCAD 2020 Best Paper Award for the paper "HyperFuzzing for SoC Security Validation".
 * Invited to present our work "SR-SFLL: Structurally Robust Stripped Functionality Logic Locking" at Academic Research and Careers for Students (ARCS) 2024, held in Bhubaneswar, Odisha, India.
 * Invited to give a talk at Workshop on Research Highlights in Programming Languages 2024, held in IIT Gandhinagar, India.
