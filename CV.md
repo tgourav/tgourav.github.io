@@ -107,3 +107,4 @@ In USENIX Conference on Offensive Technologies (WOOT'20), 2020.
 * Invited to give a talk at Workshop on Research Highlights in Programming Languages 2024, held in IIT Gandhinagar, India.
 * Invited to give a talk at Research Symposium at TCS Research Pune. Which is an initiative to bridge industry with academics.
 * Developed an educational tool adopted in three offerings of the "Program Analysis verification and Testing" (PAVT, CS639) and last semester in Compiler Design (CS335) courses at IIT Kanpur.
+* Won post competition at "SPARC Sponsored One Day Workshop on Hardware Security" at IIIT Delhi on 27th July, 2019.
