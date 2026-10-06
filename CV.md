@@ -69,7 +69,7 @@ Indian Institute of Technology – BHU (IIT-BHU) - Varanasi (July 2010 - June 20
 
 [LLM-Assisted Unsatisfiability Proofs for Satisfiability Modulo Theories, Oracles and Natural Language.](https://doi.org/10.1145/3839451)
 Gourav Takhar, Sumit Lahiri, Pankaj Kumar Kalita, and Subhajit Roy
-Proceedings of the ACM on Programming Languages (OOPSLA), 2026. (Accepted, doi link not active yet)
+Proceedings of the ACM on Programming Languages (OOPSLA), 2026.
 
 [Incorrectness Proofs with Underapproximation Invariants](https://dl.acm.org/doi/pdf/10.1145/3821419)
 Gourav Takhar and Subhajit Roy  
